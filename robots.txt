@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nimpsley.github.io/sitemap.html.gz
+Sitemap: https://nimpsley.github.io/app/sitemap.html.gz
+Sitemap: https://nimpsley.github.io/assets/sitemap.html.gz
+Sitemap: https://nimpsley.github.io/css/sitemap.html.gz
+Sitemap: https://nimpsley.github.io/includes/sitemap.html.gz
+Sitemap: https://nimpsley.github.io/item/sitemap.html.gz
+Sitemap: https://nimpsley.github.io/src/sitemap.html.gz
